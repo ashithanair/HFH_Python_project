@@ -19,7 +19,7 @@ Insert gif or link to demo, or video
   
 ## Tech Stack
 
-Eg: Flutter, Python, Html, CSS, JavaScript
+Eg: Python, SQLite
 
   
 ## Working of the project
