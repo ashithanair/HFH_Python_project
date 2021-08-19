@@ -8,13 +8,14 @@ checks the participants in the list, retrive the absentees from both batches and
 
 ## Demo + Video
 
+
 Insert gif or link to demo, or video
-[link to video]
+https://www.loom.com/share/49d45fc909494be18bd45fc706b3a054
 
   
 ## Team Members
-1. Devika Gopan [Embed personal github URL]
-2. Vaishnavi V [Embed perosnal github URL]
+1. Devika Gopan [https://github.com/Devika-Gopan/HFH_Python_Project]
+2. Vaishnavi V [https://github.com/Vaishnavi2188/HFH_Python_Project.git]
 
   
 ## Tech Stack
@@ -24,15 +25,15 @@ Eg: Python, SQLite
   
 ## Working of the project
 
-1. Explaining the working of project
-2. Embed video of project demo
+1. Connect to database
+2. Convert contents of .txt file into list for enterting in table 
+3. Compare the table for retriving
+      * absentees from a_batch
+      * absentees from b_batch
+      * external participants
 
   
-## Features
-Examples:
-- Cool Animations
-- Responsive
-- Cross platform
+
 
   
 ## Run Locally
