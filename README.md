@@ -15,7 +15,6 @@ Insert gif or link to demo, or video
 ## Team Members
 1. Devika Gopan [Embed personal github URL]
 2. Vaishnavi V [Embed perosnal github URL]
-Eg- [@Dexters-Hub](https://www.github.com/Dexters-Hub)
 
   
 ## Tech Stack
