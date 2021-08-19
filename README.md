@@ -1,8 +1,9 @@
 <img src="banner/banner.gif" width="100%" height="">
 
-# Project Title
+# HFH Python Project
 
-A brief description of what this project does and who it's for
+Attendance Checker
+checks the participants in the list, retrive the absentees from both batches and those who are not from the given batches
 
 
 ## Demo + Video
@@ -12,8 +13,8 @@ Insert gif or link to demo, or video
 
   
 ## Team Members
-1. Name [Embed personal github URL]
-2. Name [Embed perosnal github URL]
+1. Devika Gopan [Embed personal github URL]
+2. Vaishnavi V [Embed perosnal github URL]
 Eg- [@Dexters-Hub](https://www.github.com/Dexters-Hub)
 
   
